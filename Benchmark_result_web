@@ -1,0 +1,9 @@
+*************************************************************
+starting to do a performance testing on cloud based json-tore database
+total time for writing data 1000 times is : 100.111735344 seconds
+average time for writing each times is : 0.100111735344 seconds
+total time for read data 1000 times is : 90.1160173416 seconds
+average time for read each times is : 0.0901160173416 seconds
+total time for delete data 1000 times is : 96.7165782452 seconds
+average time for delete each times is : 0.0967165782452 seconds
+*************************************************************
