@@ -12,8 +12,8 @@ sys.setdefaultencoding('utf8')
 
 class client(object):
 
-    def __init__(self):
-        self.url = os.environ['JT_HOST'] + ":" + os.environ["JT_PORT"]
+    def __init__(self, host="http://localhost", port="80"):
+        self.url = host + ":" + port
 
     def jt_status(self):
         response = requests.get(self.url + jtConstant.ROOT)

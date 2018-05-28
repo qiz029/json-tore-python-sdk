@@ -17,7 +17,7 @@ DESCRIPTION = 'Python sdk client for json-tore'
 URL = 'https://github.com/qiz029/json-tore-python-sdk'
 EMAIL = '812593609@qq.com'
 AUTHOR = 'CuCumber Jelly'
-REQUIRES_PYTHON = '>=2.7.15'
+REQUIRES_PYTHON = '>=2.7.5'
 VERSION = None
 
 # What packages are required for this module to be executed?
